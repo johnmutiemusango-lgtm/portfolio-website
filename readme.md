@@ -36,9 +36,11 @@ Open your browser and go to: http://localhost/portfolio
 If you’d like me to build a custom website or collaborate on projects, feel free to reach out!
 
 📧 Email: johnmutiemusango@gmail.com
+
 🏷️ License
 
 This project is open-source under the MIT License
 🧠 How to Run Locally
 
 Install XAMPP
+
